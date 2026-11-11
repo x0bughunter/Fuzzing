@@ -1,0 +1,8 @@
+X-Forwarded-Proto
+X-Forwarded-Proto-Original
+X-Forwarded-Scheme
+X-Forwarded-Scheme-Original
+X-Forwarded-Port
+X-Forwarded-Port-Original
+X-Forwarded-Method
+Front-End-Https
